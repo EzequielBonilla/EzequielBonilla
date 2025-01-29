@@ -11,9 +11,11 @@
 ✉️ &nbsp;You can send me an email at ezequiel.bonilla92@gmail.com! I'll try to respond as soon as I can.\
 
 ###  &nbsp;Get to know me, I guarantee that you will not regret it!
+
 <br>
 <hr>
 <br>
+
 ###  &nbsp;🚀 Technologies & Tools
 
 #### 🌐 Frontend
@@ -76,7 +78,7 @@
 🐍🐍🐍
 </p>
 <div align="center">
-  <a href="https://github.com/ezequielbonilla/">
+  <a href="https://github.com/EzequielBonilla/">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
