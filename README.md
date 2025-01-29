@@ -1,22 +1,21 @@
-<h2 align="left">Hello there! I'm Ezequiel Bonilla</h2>
+<h2 align="center">Hello there! I'm Ezequiel Bonilla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h2>
+<br>
 
 ###  &nbsp;A little about me
 
-👨‍💻 &nbsp;I am currently looking for work as a developer, wit a bit of incline for Back End and Database.\
-💡 &nbsp;I like to tackle challeging problems with creative solutions and new points of view.\
-🎓 &nbsp;I've just graduated as Fullstack Developer from Soy Henry's Bootcamp.\
-🌱 &nbsp;I'm ready to keep learning new technologies and master the ones i already know and .\
-✍️ &nbsp;In my free time, I'm looking to persue Game Desing as a hobbie/side hustle.\
-💬 &nbsp;All messages are always welcome, from querys, to new opportunities or even general discussions.\
-✉️ &nbsp;You can send me an email at ezequiel.bonilla92@gmail.com! I'll try to respond as soon as I can.\
+👨‍💻 &nbsp;I am currently looking for work as a developer, with a bit of an inclination for Back End and Database.\
+💡 &nbsp;I like to tackle challenging problems with creative solutions and new points of view.\
+🎓 &nbsp;I've just graduated as a Fullstack Developer from Soy Henry's Bootcamp.\
+🌱 &nbsp;I'm ready to keep learning new technologies and master the ones I already know.\
+✍️ &nbsp;In my free time, I’m pursuing Game Design as a hobby/side hustle.\
+💬 &nbsp;All messages are always welcome, from queries, to new opportunities, or even general discussions.\
+✉️ &nbsp;You can send me an email at ezequiel.bonilla92@gmail.com! I'll try to respond as soon as I can.
 
 ###  &nbsp;Get to know me, I guarantee that you will not regret it!
 
 <br>
-<hr>
-<br>
 
-###  &nbsp;🚀 Technologies & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
 #### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,8 +49,15 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+#### 💼 Productivity Tools
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 <br>
-<hr>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
 <br>
 
 <p align="center">
@@ -60,25 +66,13 @@
   </a>
   
 <br>
-<hr>
-<br>
 
-### 🤝🏻 &nbsp;Connect with Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ezequielhbonilla/"><img src="https://img.shields.io/badge/-Ezequiel%20Bonilla-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ezequielbonilla92@gmail.com"><img src="https://img.shields.io/badge/-EzequielBonilla92-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
-<br>
-<hr>
 <br>
 
 <p align="center">
-🐍🐍🐍
+<a href="https://www.linkedin.com/in/ezequielhbonilla/"><img src="https://img.shields.io/badge/-Ezequiel%20Bonilla-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ezequielbonilla92@gmail.com"><img src="https://img.shields.io/badge/-EzequielBonilla92-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://discord.com/users/eseeseze"><img src="https://img.shields.io/badge/EseEsEze-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-<div align="center">
-  <a href="https://github.com/EzequielBonilla/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
