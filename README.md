@@ -4,7 +4,7 @@
 ###  &nbsp;A little about me
 
 👨‍💻 &nbsp;I am currently looking for work as a developer, with a bit of an inclination for Back End and Database.\
-💡 &nbsp;I like to tackle challenging problems with creative solutions and new points of view.\
+💡  &nbsp; I like to tackle challenging problems with creative solutions and new points of view.\
 🎓 &nbsp;I've just graduated as a Fullstack Developer from Soy Henry's Bootcamp.\
 🌱 &nbsp;I'm ready to keep learning new technologies and master the ones I already know.\
 ✍️ &nbsp;In my free time, I’m pursuing Game Design as a hobby/side hustle.\
